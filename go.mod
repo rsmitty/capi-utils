@@ -7,7 +7,7 @@ require (
 	github.com/spf13/viper v1.8.1
 	github.com/talos-systems/go-debug v0.2.1
 	github.com/talos-systems/go-retry v0.3.1
-	github.com/talos-systems/talos/pkg/machinery v0.12.3
+	github.com/talos-systems/talos/pkg/machinery v0.11.5
 	google.golang.org/grpc v1.40.0
 	k8s.io/api v0.21.4
 	k8s.io/apimachinery v0.21.4
